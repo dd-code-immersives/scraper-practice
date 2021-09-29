@@ -1,0 +1,5 @@
+ what we are going to test
+ 1. check if div class quote exists 
+ 2. does the csv file exist
+ 3. get html for the whole page
+ 4. test that the website works (ping the website)
